@@ -1,0 +1,4 @@
+include ':middleware'
+include ':DLSArch'
+include ':app'
+rootProject.name = "WowMoutsCollection"
